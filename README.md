@@ -4,7 +4,7 @@ Dr. Claus Rinner
 
 Introducing ALUM and ALMA: 
 
-- ALUM - Token of appreciation for your alumni
-- ALMA - Cryptocurrency for alumni relations
+- **ALUM** - Token of appreciation for your alumni
+- **ALMA** - Cryptocurrency for alumni relations
 
-> The world's first paired coin offering!
+- [x] The world's first paired coin offering!
