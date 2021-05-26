@@ -1,0 +1,25 @@
+ACCOUNTS=[
+"G",
+"G"
+]
+
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Alumni Tokens"
+ORG_URL="https://alumni-tokens.com"
+
+[[PRINCIPALS]]
+name="Claus Rinner"
+email="claus.rinner@gmail.com"
+twitter="ClausRinner"
+github="crinner"
+
+[[CURRENCIES]]
+code="ALUM"
+issuer=""
+status=live
+display_decimals=0
+name="Alumni Token"
+image="https://crinner.github.io/alumni-tokens/icons/alum-logo_original.png"
+is_unlimited
